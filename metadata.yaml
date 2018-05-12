@@ -1,0 +1,37 @@
+_repo: A-Daughter-of-the-Rich_40661
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pyle, Ellen Bernard Thompson
+    alias: Thompson, Ellen Bernard
+    birthdate: 1876
+    deathdate: 1936
+    gutenberg_agent_id: '38787'
+    url: http://www.gutenberg.org/2009/agents/38787
+covers:
+- cover_type: archival
+  image_path: 40661-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Waller, Mary E. (Mary Ella)
+    aliases:
+    - Waller, M. E. (Mary Ella)
+    - Waller, Mary Ella
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '25973'
+    url: http://www.gutenberg.org/2009/agents/25973
+description: ''
+gutenberg_issued: '2012-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children of the rich -- Fiction'
+- !lcc 'PS'
+title: A Daughter of the Rich
+url: http://www.gutenberg.org/ebooks/40661
